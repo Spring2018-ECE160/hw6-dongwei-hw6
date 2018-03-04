@@ -9,5 +9,17 @@ Note: You may hard code these statistics in a global or in your main.
 Bonus (+5 points): Find an actual data file that you ingest with your program using functions like fopen from chapter7.
 
 Compile Steps:
-
+gcc q5.c
 Output:
+The Most Expensive Colleges in New York:
+Name					Tuition($)	
+Sarah Lawrence College			61236	
+New York University   			59837	
+The New School        			57340	
+Columbia University   			58742	
+Barnard College       			57312	
+
+average=58893.40
+number of college that tuition above 60000/yr =1
+
+
